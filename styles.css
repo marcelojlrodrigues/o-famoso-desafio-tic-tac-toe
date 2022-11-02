@@ -1,0 +1,29 @@
+.quadrado {
+    background-color: rgb(46, 84, 118);
+    width: 100px;
+    height: 100px;
+    border: 1px solid;
+    border-color: aliceblue;
+}
+
+.linha {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.velha {
+   
+    font-family: 'Kolker Brush', cursive;
+    font-size: 60px;
+    color: aliceblue;
+}
+
+.quadrado {
+    text-align: center;
+    border-radius: 10px;
+}
+
+
+
